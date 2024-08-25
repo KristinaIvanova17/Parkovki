@@ -1,0 +1,148 @@
+{
+  "Москва": [
+    {
+      "street": "Арбат",
+      "house": "13",
+      "parking": [
+        {
+          "free_parking": {
+            "zone": "7806",
+            "places": "4"
+          }
+        }
+      ]
+    }
+  ],
+  "Санкт-Петербург": [
+    {
+      "street": "Чайковского",
+      "house": "11",
+      "parking": [
+        {
+          "free_parking": {
+            "zone": "666",
+            "places": "5"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "13",
+      "parking": [
+        {
+          "free_parking": {
+            "zone": "7806",
+            "places": "4"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "18",
+      "parking": [
+        {
+          "paid_parking": {
+            "zone": "7806",
+            "places": "4",
+            "A_auto": "39",
+            "B_auto": "100",
+            "C_auto": "198",
+            "D_auto": "198"
+          },
+          "free_parking": {
+            "zone": "7806",
+            "places": "4"
+          },
+          "parkomat": {
+            "zone": "178071"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "15",
+      "parking": [
+        {
+          "paid_parking": {
+            "zone": "7806",
+            "places": "3",
+            "A_auto": "39",
+            "B_auto": "100",
+            "C_auto": "198",
+            "D_auto": "198"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "17",
+      "parking": [
+        {
+          "paid_parking": {
+            "zone": "7806",
+            "places": "1",
+            "A_auto": "39",
+            "B_auto": "100",
+            "C_auto": "198",
+            "D_auto": "198"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "21",
+      "parking": [
+        {
+          "paid_parking": {
+            "zone": "7806",
+            "places": "8",
+            "A_auto": "39",
+            "B_auto": "100",
+            "C_auto": "198",
+            "D_auto": "198"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "24",
+      "parking": [
+        {
+          "paid_parking": {
+            "zone": "7806",
+            "places": "9",
+            "A_auto": "39",
+            "B_auto": "100",
+            "C_auto": "198",
+            "D_auto": "198"
+          }
+        }
+      ]
+    },
+    {
+      "street": "Большая Морская",
+      "house": "23",
+      "parking": [
+        {
+          "paid_parking": {
+            "zone": "7806",
+            "places": "3",
+            "A_auto": "39",
+            "B_auto": "100",
+            "C_auto": "198",
+            "D_auto": "198"
+          },
+          "parkomat": {
+            "zone": "178071"
+          }
+        }
+      ]
+    }
+  ]
+}
